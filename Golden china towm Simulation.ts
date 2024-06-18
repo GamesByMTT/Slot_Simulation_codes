@@ -504,7 +504,7 @@ export const gameData = [
             "highestMultiplier": 0.5
           },
           {
-            "Name": "14",
+            "Name": "Free Spin",
             "Id": 14,
             "reelInstance": {
               "0": 4,
