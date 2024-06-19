@@ -498,7 +498,7 @@ export const gameData = [
             },
             "useWildSub": false,
             "symbolCount": 5,
-            "pay": 200,
+            "pay": 10.36x,
             "highestMultiplier": 0.5
         }
     ]
