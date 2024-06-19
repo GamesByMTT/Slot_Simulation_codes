@@ -162,7 +162,9 @@ export const gameData = [
     "bonus": {
         "type": "spin",
         "isEnabled": true,
-        "noOfItem": 8
+        "noOfItem": 8,
+        "payOut": [1200,200,100,50,25,10,3,0],
+        "payOutProb":[0.2,0.6,1.2,2,4,20,48,20]
     },
     "gamble": {
         "type": "card",
@@ -186,7 +188,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    5,
+                    6,
                     0
                 ],
                 [
@@ -212,7 +214,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    5,
+                    6,
                     0
                 ],
                 [
@@ -238,7 +240,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    5,
+                    6,
                     0
                 ],
                 [
@@ -264,7 +266,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    5,
+                    6,
                     0
                 ],
                 [
@@ -290,7 +292,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    5,
+                    6,
                     0
                 ],
                 [
@@ -320,7 +322,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    6,
+                    7,
                     0
                 ]
             ]
@@ -346,7 +348,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    6,
+                    7,
                     0
                 ]
             ]
@@ -372,7 +374,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    6,
+                    7,
                     0
                 ]
             ]
@@ -398,7 +400,7 @@ export const gameData = [
                     0
                 ],
                 [
-                    6,
+                    7,
                     0
                 ]
             ]
@@ -487,19 +489,19 @@ export const gameData = [
             "increaseValue": 5
         },
         {
-            "Name": "Bonus",
-            "Id": 13,
-            "reelInstance": {
-                "0": 2,
-                "1": 3,
-                "2": 2,
-                "3": 2,
-                "4": 2
-            },
-            "useWildSub": false,
-            "symbolCount": 5,
-            "pay": 10.36x,
-            "highestMultiplier": 0.5
+          "Name": "Bonus",
+                "Id": 13,
+                "reelInstance": {
+                    "0": 4,
+                    "1": 4,
+                    "2": 3,
+                    "3": 4,
+                    "4": 3
+                },
+                "useWildSub": false,
+                "symbolCount": 5,
+              
+              
         }
     ]
 },
