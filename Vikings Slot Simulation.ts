@@ -492,11 +492,11 @@ export const gameData = [
           "Name": "Bonus",
                 "Id": 13,
                 "reelInstance": {
-                    "0": 4,
-                    "1": 4,
-                    "2": 3,
-                    "3": 4,
-                    "4": 3
+                    "0": 2,
+                    "1": 2,
+                    "2": 2,
+                    "3": 2,
+                    "4": 2
                 },
                 "useWildSub": false,
                 "symbolCount": 5,
@@ -504,5 +504,5 @@ export const gameData = [
               
         }
     ]
-},
+}
 ];
