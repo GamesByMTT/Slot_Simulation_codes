@@ -1,4 +1,4 @@
-export const gameData = [
+[
 {
   "id": "SL-GF",
   "matrix": {
@@ -460,5 +460,4 @@ export const gameData = [
     }
   ]
 }
-];
 
