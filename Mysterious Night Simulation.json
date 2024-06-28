@@ -268,7 +268,7 @@
         "3": 4,
         "4": 4
       },
-      "useWildSub": true,
+      "useWildSub": false,
       "multiplier": [
         [
           200,
