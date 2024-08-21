@@ -210,7 +210,7 @@
                0
             ],
             [
-               25,
+               20,
                0
             ]
          ]
@@ -262,7 +262,7 @@
                0
             ],
             [
-               25,
+               20,
                0
             ]
          ]
@@ -288,7 +288,7 @@
                0
             ],
             [
-               25,
+               20,
                0
             ]
          ]
@@ -314,7 +314,7 @@
                0
             ],
             [
-               25,
+               20,
                0
             ]
          ]
@@ -340,7 +340,7 @@
                0
             ],
             [
-               40,
+               35,
                0
             ]
          ]
@@ -366,7 +366,7 @@
                0
             ],
             [
-               40,
+               35,
                0
             ]
          ]
@@ -392,7 +392,7 @@
                0
             ],
             [
-               40,
+               35,
                0
             ]
          ]
@@ -418,7 +418,7 @@
                0
             ],
             [
-               40,
+               35,
                0
             ]
          ]
@@ -433,6 +433,7 @@
             "3":3,
             "4":3
          },
+         "description":"Activates 10, 5, or 3 free spins when 3, 4, or 5 symbols appear on pay lines.",
          "useWildSub":false,
          "multiplier":[
             [
@@ -459,6 +460,7 @@
             "3":2,
             "4":2
          },
+         "description": "Substitutes for all symbols except Jackpot, Free Spin, Bonus, and Scatter.",
          "useWildSub":false,
          "multiplier":[
             
@@ -474,6 +476,7 @@
             "3":2,
             "4":2
          },
+         "description":"Scatter: Offers higher pay outs. Payout: 5x - 1000, 4x - 700",
          "useWildSub":false,
          "multiplier":[
             [
@@ -498,6 +501,7 @@
             "3":1,
             "4":1
          },
+         "description":"Mega win triggered by 5 Jackpot symbols on a pay line. Payout: 5000x",
          "useWildSub":false,
          "multiplier":[
             
@@ -516,6 +520,7 @@
             "3":3,
             "4":3
          },
+         "description":"Starts a spinning wheel game for a pay out when 3 or more symbols appear anywhere on the result matrix.",
          "useWildSub":false,
          "symbolCount":3
       }
