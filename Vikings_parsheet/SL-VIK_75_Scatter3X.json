@@ -476,7 +476,7 @@
             "3":2,
             "4":2
          },
-         "description":"Scatter: Offers higher pay outs. Payout: 5x - 1000, 4x - 700, 3x - 500",
+         "description":"Scatter: Offers higher pay outs when 3 or more symbols appear anywhere on the result matrix. Payout: 5x - 1000, 4x - 700, 3x - 500",
          "useWildSub":false,
          "multiplier":[
             [
@@ -503,7 +503,7 @@
             "3":1,
             "4":1
          },
-         "description":"Mega win triggered by 5 Jackpot symbols anywhere on the result matrix. Payout: 5000x",
+         "description":"Mega win triggered by 5 Jackpot symbols appearing anywhere on the result matrix. Payout: 5000x",
          "useWildSub":false,
          "multiplier":[
             
