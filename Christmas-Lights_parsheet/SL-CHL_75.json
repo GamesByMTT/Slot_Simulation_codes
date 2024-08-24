@@ -1,5 +1,5 @@
 {
-   "id":"SL-GR",
+   "id":"SL-CHL",
    "matrix":{
       "x":5,
       "y":3
@@ -160,37 +160,47 @@
       1
    ],
    "bonus":{
-      "type":"spin",
-      "isEnabled":false,
-      "noOfItem":8
+      "type":"tap",
+      "isEnabled":true,
+      "noOfItem":5,
+      "payOut":[
+         45,
+         35,
+         25,
+         5,
+         0
+      ],
+      "payOutProb":[
+         
+      ]
    },
    "gamble":{
       "type":"card",
-      "isEnabled":false
+      "isEnabled":true
    },
    "Symbols":[
       {
          "Name":"0",
          "Id":0,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":8,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":8
          },
          "useWildSub":true,
          "multiplier":[
             [
-               200,
+               120,
                0
             ],
             [
-               100,
+               60,
                0
             ],
             [
-               35,
+               30,
                0
             ]
          ]
@@ -199,24 +209,24 @@
          "Name":"1",
          "Id":1,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":8,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":8
          },
          "useWildSub":true,
          "multiplier":[
             [
-               200,
+               120,
                0
             ],
             [
-               100,
+               60,
                0
             ],
             [
-               35,
+               30,
                0
             ]
          ]
@@ -225,24 +235,24 @@
          "Name":"2",
          "Id":2,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":8,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":8
          },
          "useWildSub":true,
          "multiplier":[
             [
-               200,
+               120,
                0
             ],
             [
-               100,
+               60,
                0
             ],
             [
-               35,
+               30,
                0
             ]
          ]
@@ -251,24 +261,24 @@
          "Name":"3",
          "Id":3,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":8,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":8
          },
          "useWildSub":true,
          "multiplier":[
             [
-               200,
+               120,
                0
             ],
             [
-               100,
+               60,
                0
             ],
             [
-               35,
+               30,
                0
             ]
          ]
@@ -277,11 +287,11 @@
          "Name":"4",
          "Id":4,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9,
-            "4":9
+            "0":8,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":8
          },
          "useWildSub":true,
          "multiplier":[
@@ -294,7 +304,7 @@
                0
             ],
             [
-               20,
+               25,
                0
             ]
          ]
@@ -303,24 +313,24 @@
          "Name":"5",
          "Id":5,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9,
-            "4":9
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
          },
          "useWildSub":true,
          "multiplier":[
             [
-               100,
+               300,
                0
             ],
             [
-               50,
+               125,
                0
             ],
             [
-               20,
+               60,
                0
             ]
          ]
@@ -329,24 +339,24 @@
          "Name":"6",
          "Id":6,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9,
-            "4":9
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
          },
          "useWildSub":true,
          "multiplier":[
             [
-               100,
+               300,
                0
             ],
             [
-               50,
+               125,
                0
             ],
             [
-               20,
+               60,
                0
             ]
          ]
@@ -355,24 +365,24 @@
          "Name":"7",
          "Id":7,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9,
-            "4":9
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
          },
          "useWildSub":true,
          "multiplier":[
             [
-               100,
+               300,
                0
             ],
             [
-               50,
+               125,
                0
             ],
             [
-               20,
+               60,
                0
             ]
          ]
@@ -381,31 +391,97 @@
          "Name":"8",
          "Id":8,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9,
-            "4":9
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
          },
          "useWildSub":true,
          "multiplier":[
             [
-               100,
+               300,
                0
             ],
             [
-               50,
+               125,
                0
             ],
             [
-               20,
+               60,
                0
             ]
          ]
       },
       {
-         "Name":"Wild",
+         "Name":"9",
          "Id":9,
+         "reelInstance":{
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
+         },
+         "useWildSub":false,
+         "multiplier":[
+            [
+               300,
+               0
+            ],
+            [
+               125,
+               0
+            ],
+            [
+               60,
+               0
+            ]
+         ]
+      },
+      {
+         "Name":"10",
+         "Id":10,
+         "reelInstance":{
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":4
+         },
+         "useWildSub":false,
+         "multiplier":[
+            [
+               300,
+               0
+            ],
+            [
+               125,
+               0
+            ],
+            [
+               60,
+               0
+            ]
+         ]
+      },
+      {
+         "Name":"Bonus",
+         "Id":11,
+         "reelInstance":{
+            "0":6,
+            "1":6,
+            "2":6,
+            "3":6,
+            "4":6
+         },
+         "description":"The combination of 4 or more of these symbols anywhere on the result matrix <color=yellow>starts bonus game ",
+         "useWildSub":false,
+         "symbolCount":4
+      },
+      {
+         "Name":"Wild",
+         "Id":12,
          "reelInstance":{
             "0":2,
             "1":2,
@@ -413,31 +489,8 @@
             "3":2,
             "4":2
          },
-         "description":"Substitutes for all symbols except Scatter.",
+         "description":"Substitutes for all symbols except Bonus.",
          "useWildSub":false
-      },
-      {
-         "Name":"Scatter",
-         "Id":10,
-         "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
-         },
-         "description":"Offers higher payouts when 4 or more symbols appear anywhere on the matrix. Payout: 5x - 500, 4x - 200 ",
-         "useWildSub":false,
-         "multiplier":[
-            [
-               500,
-               0
-            ],
-            [
-               200,
-               0
-            ]
-         ]
       }
    ]
 }
