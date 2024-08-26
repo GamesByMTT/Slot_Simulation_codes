@@ -182,15 +182,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               150,
+               100,
                0
             ],
             [
-               85,
+               40,
                0
             ],
             [
-               50,
+               20,
                0
             ]
          ]
@@ -208,15 +208,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               150,
+               100,
                0
             ],
             [
-               85,
+               40,
                0
             ],
             [
-               50,
+               20,
                0
             ]
          ]
@@ -234,15 +234,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               150,
+               100,
                0
             ],
             [
-               85,
+               40,
                0
             ],
             [
-               50,
+               20,
                0
             ]
          ]
@@ -260,15 +260,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               150,
+               100,
                0
             ],
             [
-               85,
+               40,
                0
             ],
             [
-               50,
+               20,
                0
             ]
          ]
@@ -286,15 +286,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               150,
+               100,
                0
             ],
             [
-               85,
+               40,
                0
             ],
             [
-               50,
+               20,
                0
             ]
          ]
@@ -312,15 +312,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               300,
+               150,
                0
             ],
             [
-               200,
+               75,
                0
             ],
             [
-               100,
+               40,
                0
             ]
          ]
@@ -338,15 +338,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               300,
+               150,
                0
             ],
             [
-               200,
+               75,
                0
             ],
             [
-               100,
+               40,
                0
             ]
          ]
@@ -364,15 +364,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               300,
+               150,
                0
             ],
             [
-               200,
+               75,
                0
             ],
             [
-               100,
+               40,
                0
             ]
          ]
@@ -390,15 +390,15 @@
          "useWildSub":true,
          "multiplier":[
             [
-               300,
+               150,
                0
             ],
             [
-               200,
+               75,
                0
             ],
             [
-               100,
+               40,
                0
             ]
          ]
@@ -413,6 +413,7 @@
             "3":2,
             "4":2
          },
+         "description":"Substitutes for all symbols except Scatter.",
          "useWildSub":false,
          "multiplier":[
             
@@ -428,14 +429,11 @@
             "3":5,
             "4":5
          },
+         "description":"Scatter: Offers higher pay outs when 4 or more symbols appear anywhere on the result matrix. Payout: 5x - 500, 4x - 200",
          "useWildSub":false,
          "multiplier":[
             [
                500,
-               0
-            ],
-            [
-               300,
                0
             ],
             [
