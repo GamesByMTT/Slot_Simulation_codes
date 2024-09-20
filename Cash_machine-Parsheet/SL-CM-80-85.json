@@ -424,6 +424,16 @@
          "payout":"00",
          "canCallRedSpin":false,
          "canCallRespin":true
+      },
+      {
+         "Name":"RedRespin",
+         "Id":7,
+         "description":"This is a test data for Red respin"
+      },
+      {
+         "Name":"ZeroRespin",
+         "Id":8,
+         "description":"This is a test data for zero respin"
       }
    ]
 }
