@@ -313,65 +313,66 @@
       ]
    ],
    "probabilities":[
-      0.10,
-      0.09,
-      0.08,
-      0.07,
-      0.06,
-      0.05,
-      0.045,
-      0.04,
-      0.038,
-      0.036,
-      0.034,
-      0.032,
+      700,
+      40,
+      30,
+      30,
+      25,
+      10,
+      50,
+      25,
+      20,
+      28.9799,
+      60,
+      30,
+      40,
+      40,
+      40,
+      20,
+      20,
+      15,
+      15,
+      10,
+      10,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
       0.03,
-      0.028,
-      0.026,
-      0.024,
-      0.022,
-      0.02,
-      0.018,
-      0.016,
-      0.015,
-      0.014,
-      0.013,
-      0.012,
-      0.011,
+      0.03,
+      0.3,
+      0.3,
+      0.2,
+      0.1,
+      0.1,
       0.01,
-      0.0095,
-      0.009,
-      0.0085,
-      0.008,
-      0.0075,
-      0.007,
-      0.0065,
-      0.006,
-      0.0055,
-      0.005,
-      0.0048,
-      0.0046,
-      0.0044,
-      0.0042,
-      0.004,
-      0.0038,
-      0.0036,
-      0.0034,
-      0.0032,
-      0.003,
-      0.0028,
-      0.0026,
-      0.0024,
-      0.0022,
-      0.002,
-      0.0018,
-      0.0016,
-      0.0015,
-      0.0014,
-      0.0013,
-      0.0012,
-      0.0011,
-      0.001
+      0.01,
+      0.001,
+      0.001,
+      0.00001
    ],
    "redspinprobability":5,
    "Symbols":[
@@ -380,84 +381,49 @@
          "Id":0,
          "payout":"",
          "canCallRedSpin":false,
-         "canCallRespin":false,
-         "reelInstance":{
-            "0":60,
-            "1":62,
-            "2":55
-         }
+         "canCallRespin":false
       },
       {
          "Name":"1",
          "Id":1,
          "payout":"1",
          "canCallRedSpin":true,
-         "canCallRespin":false,
-         "reelInstance":{
-            "0":5,
-            "1":0,
-            "2":0
-         }
+         "canCallRespin":false
       },
       {
          "Name":"2",
          "Id":2,
          "payout":"2",
          "canCallRedSpin":true,
-         "canCallRespin":false,
-         "reelInstance":{
-            "0":4,
-            "1":0,
-            "2":0
-         }
+         "canCallRespin":false
       },
       {
          "Name":"5",
          "Id":3,
          "payout":"5",
          "canCallRedSpin":true,
-         "canCallRespin":false,
-         "reelInstance":{
-            "0":2,
-            "1":5,
-            "2":8
-         }
+         "canCallRespin":false
       },
       {
          "Name":"10",
          "Id":4,
          "payout":"10",
          "canCallRedSpin":false,
-         "canCallRespin":false,
-         "reelInstance":{
-            "0":1,
-            "1":0,
-            "2":0
-         }
+         "canCallRespin":false
       },
       {
          "Name":"0",
          "Id":5,
          "payout":"0",
          "canCallRedSpin":false,
-         "canCallRespin":true,
-         "reelInstance":{
-            "0":0,
-            "1":30,
-            "2":0
-         }
+         "canCallRespin":true
       },
       {
          "Name":"doubleZero",
          "Id":6,
          "payout":"00",
          "canCallRedSpin":false,
-         "canCallRespin":true,
-         "reelInstance":{
-            "0":0,
-            "1":0,
-            "2":40
-         }
+         "canCallRespin":true
       }
    ]
 }
