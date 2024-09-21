@@ -255,7 +255,11 @@
             "2":0,
             "3":5
          }
+      },
+      {
+         "Name":"Default",
+         "Id":12,
+         "payout":3
       }
-   ],
-   "defaultPayout":3
+   ]
 }
