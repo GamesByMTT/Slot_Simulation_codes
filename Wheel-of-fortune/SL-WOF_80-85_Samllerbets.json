@@ -348,6 +348,22 @@
             "1":4,
             "2":4
          }
+      },
+      {
+         "Name":"default",
+         "Id":13,
+         "payout":10,
+         "mixedPayout":0,
+         "canmatch":[
+            
+         ],
+         "description":"",
+         "reelInstance":{
+            "0":0,
+            "1":0,
+            "2":0,
+            "3":0
+         }
       }
    ],
    "defaultPayout":3
