@@ -474,6 +474,7 @@
             "4":3
          },
          "useWildSub":false,
+         "description":"Select layers one by one. If the current selection has a payout, they move to the next layer. If no payout is revealed, the game ends. All winnings are accumulated until a zero is selected.",
          "symbolCount":3
       },
       {
