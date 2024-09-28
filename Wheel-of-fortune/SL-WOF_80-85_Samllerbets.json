@@ -348,6 +348,22 @@
             "1":4,
             "2":4
          }
+      },
+      {
+         "Name":"default",
+         "Id":13,
+         "payout":10,
+         "mixedPayout":0,
+         "canmatch":[
+            
+         ],
+         "description":"All symbols except the Wheel of Frotune, and GOLD SPIN ones may appear with a Triple Sub-Symbol. When forming part of a win, the prize is multiplied by 3x, 9x, or 27x, depending on whether there were 1, 2, or 3 Triple Sub-Symbols respectively.",
+         "reelInstance":{
+            "0":0,
+            "1":0,
+            "2":0,
+            "3":0
+         }
       }
    ],
    "defaultPayout":3
