@@ -459,6 +459,7 @@
             "4":1
          },
          "useWildSub":false,
+         "description":"Mega win triggered by 5 Jackpot symbols appearing anywhere on the result matrix. Payout: 5000x",
          "symbolCount":5,
          "pay":5000
       },
