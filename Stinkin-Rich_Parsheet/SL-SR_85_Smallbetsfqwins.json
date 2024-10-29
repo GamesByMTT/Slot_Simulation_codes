@@ -1045,7 +1045,7 @@
             "3":5,
             "4":5
          },
-         "description":"Substitutes for all symbols except Jackpot, Free Spin and Scatter.",
+         "description":"Substitutes for all symbols except Trash for cash and Keys to Riches.",
          "useWildSub":false,
          "multiplier":[
             
@@ -1061,7 +1061,7 @@
             "3":4,
             "4":4
          },
-         "description":"Scatter: Offers higher pay outs when 3 or more symbols appear anywhere on the result matrix. Payout: 5x - 1000, 4x - 700, 3x - 500",
+         "description":"Scatter: Offers higher pay outs when 3 or more symbols appear anywhere on the result matrix. Payout: 5x - 500, 4x - 300, 3x - 100",
          "useWildSub":false,
          "multiplier":[
             [
@@ -1088,11 +1088,9 @@
             "3":0,
             "4":0
          },
-         "description":"Activates 5, 10, or 15 free spins when 3, 4, or 5 symbols appear anywhere on the result matrix.",
+         "description":"Activates 2 freespins for each line winnings",
          "useWildSub":false,
          "multiplier":[
-            0,
-            5
          ]
       },
       {
@@ -1105,7 +1103,7 @@
             "3":5,
             "4":5
          },
-         "description":"Starts a spinning wheel game for a pay out when 3 or more symbols appear anywhere on the result matrix.",
+         "description":"Starts a tap game where you have to select one can from all cans and it becomes a multiplier and gives winnings",
          "useWildSub":false,
          "symbolCount":3
       }
