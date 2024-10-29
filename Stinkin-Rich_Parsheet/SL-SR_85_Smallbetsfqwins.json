@@ -711,7 +711,7 @@
       1,
       5,
       15,
-      20
+      100
    ],
    "freeSpinValue":2,
    "bonusValuesArray":[
@@ -1045,7 +1045,7 @@
             "3":5,
             "4":5
          },
-         "description":"Substitutes for all symbols except Trash for cash and Keys to Riches.",
+         "description":"Substitutes for all symbols except Trash for cash, Scatter and Keys to Riches.",
          "useWildSub":false,
          "multiplier":[
             
@@ -1088,9 +1088,10 @@
             "3":0,
             "4":0
          },
-         "description":"Activates 2 freespins for each line winnings",
+         "description":"The Keys to Riches Bonus is triggered when 3 keys to Riches symbol appear on consecutive reels on a payline. These symbols are only found on reels 1, 2, and 3.Triggering the Keys to Riches Bonus awards 2 free spins for each payline that triggered the bonus.",
          "useWildSub":false,
          "multiplier":[
+            
          ]
       },
       {
@@ -1103,7 +1104,7 @@
             "3":5,
             "4":5
          },
-         "description":"Starts a tap game where you have to select one can from all cans and it becomes a multiplier and gives winnings",
+         "description":"During the Trash for Cash Bonus, the 3 triggering symbols change to picker tiles. Select 1 of the tiles to reveal a multiplier value of 2x, 3x, 4x, or 5x. The remaining 2 tiles will reveal currency values, which are added together and then multiplied by the selected multiplier. The total is the amount awarded for the Trash for Cash Bonus.",
          "useWildSub":false,
          "symbolCount":3
       }
