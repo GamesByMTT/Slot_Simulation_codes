@@ -1,7 +1,8 @@
 {
    "id":"SL-SM",
    "isSpecial":true,
-   "minMatchCount":8,
+   "minMatchCount":6,
+   "freeSpinMatchCount":8,
    "matrix":{
       "x":4,
       "y":4
@@ -110,12 +111,13 @@
       0.02,
       0.01
    ],
-   "miniMultiplier":30,
-   "minorMultiplier":70,
-   "majorMultiplier":200,
-   "grandMultiplier":500,
-   "moonMultiplier":1000,
+   "miniMultiplier":10,
+   "minorMultiplier":50,
+   "majorMultiplier":75,
+   "grandMultiplier":100,
+   "moonMultiplier":500,
    "freeSpinCount":3,
+   "wildPayout":20,
    "gamble":{
       "type":"card",
       "isEnabled":true
@@ -144,35 +146,43 @@
                0
             ],
             [
-               205,
+               150,
                0
             ],
             [
-               148,
+               120,
                0
             ],
             [
-               105,
+               100,
                0
             ],
             [
-               85,
+               80,
                0
             ],
             [
-               68,
+               50,
                0
             ],
             [
-               54,
+               25,
                0
             ],
             [
-               38,
+               10,
                0
             ],
             [
-               18,
+               7,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               1,
                0
             ]
          ]
@@ -196,35 +206,43 @@
                0
             ],
             [
-               205,
+               150,
                0
             ],
             [
-               148,
+               120,
                0
             ],
             [
-               105,
+               100,
                0
             ],
             [
-               85,
+               80,
                0
             ],
             [
-               68,
+               50,
                0
             ],
             [
-               54,
+               25,
                0
             ],
             [
-               38,
+               10,
                0
             ],
             [
-               18,
+               7,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               1,
                0
             ]
          ]
@@ -248,27 +266,19 @@
                0
             ],
             [
-               175,
+               150,
                0
             ],
             [
-               140,
+               100,
                0
             ],
             [
-               96,
+               80,
                0
             ],
             [
-               78,
-               0
-            ],
-            [
-               56,
-               0
-            ],
-            [
-               48,
+               40,
                0
             ],
             [
@@ -276,7 +286,23 @@
                0
             ],
             [
-               14,
+               15,
+               0
+            ],
+            [
+               6,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               2,
+               0
+            ],
+            [
+               0.8,
                0
             ]
          ]
@@ -300,27 +326,19 @@
                0
             ],
             [
-               175,
+               150,
                0
             ],
             [
-               140,
+               100,
                0
             ],
             [
-               96,
+               80,
                0
             ],
             [
-               78,
-               0
-            ],
-            [
-               56,
-               0
-            ],
-            [
-               48,
+               40,
                0
             ],
             [
@@ -328,7 +346,23 @@
                0
             ],
             [
-               14,
+               15,
+               0
+            ],
+            [
+               6,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               2,
+               0
+            ],
+            [
+               0.8,
                0
             ]
          ]
@@ -352,27 +386,19 @@
                0
             ],
             [
-               95,
+               100,
                0
             ],
             [
-               70,
+               75,
                0
             ],
             [
-               56,
+               50,
                0
             ],
             [
-               48,
-               0
-            ],
-            [
-               34,
-               0
-            ],
-            [
-               28,
+               30,
                0
             ],
             [
@@ -381,6 +407,22 @@
             ],
             [
                10,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               2,
+               0
+            ],
+            [
+               1.5,
+               0
+            ],
+            [
+               0.6,
                0
             ]
          ]
@@ -404,27 +446,19 @@
                0
             ],
             [
-               95,
+               100,
                0
             ],
             [
-               70,
+               75,
                0
             ],
             [
-               56,
+               50,
                0
             ],
             [
-               48,
-               0
-            ],
-            [
-               34,
-               0
-            ],
-            [
-               28,
+               30,
                0
             ],
             [
@@ -433,6 +467,22 @@
             ],
             [
                10,
+               0
+            ],
+            [
+               4,
+               0
+            ],
+            [
+               2,
+               0
+            ],
+            [
+               1.5,
+               0
+            ],
+            [
+               0.6,
                0
             ]
          ]
@@ -456,35 +506,43 @@
                0
             ],
             [
-               75,
+               80,
                0
             ],
             [
-               64,
+               60,
                0
             ],
             [
-               58,
+               30,
                0
             ],
             [
-               44,
+               20,
                0
             ],
             [
-               36,
+               10,
                0
             ],
             [
-               26,
+               5,
                0
             ],
             [
-               18,
+               2,
                0
             ],
             [
-               8,
+               1.5,
+               0
+            ],
+            [
+               1,
+               0
+            ],
+            [
+               0.5,
                0
             ]
          ]
@@ -508,35 +566,43 @@
                0
             ],
             [
-               75,
+               80,
                0
             ],
             [
-               64,
+               60,
                0
             ],
             [
-               58,
+               30,
                0
             ],
             [
-               44,
+               20,
                0
             ],
             [
-               36,
+               10,
                0
             ],
             [
-               26,
+               5,
                0
             ],
             [
-               18,
+               2,
                0
             ],
             [
-               8,
+               1.5,
+               0
+            ],
+            [
+               1,
+               0
+            ],
+            [
+               0.5,
                0
             ]
          ]
@@ -601,14 +667,15 @@
          "isSpecialSymbol":false,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":9,
-            "1":9,
-            "2":9,
-            "3":9
+            "0":14,
+            "1":14,
+            "2":14,
+            "3":14
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"Substitutes for all symbols except Bonus and Jackpot symbol."
       },
       {
          "Name":"Bonus",
@@ -618,14 +685,15 @@
          "isSpecialSymbol":true,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":8,
-            "1":8,
-            "2":8,
-            "3":8
+            "0":4,
+            "1":4,
+            "2":4,
+            "3":4
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"Standard Bonus symbols award prizes ranging from 1x-15x player's bet."
       },
       {
          "Name":"StickyBonus",
@@ -642,7 +710,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"Sticky Bonus symbols stick to the reels for up to 9 spins, increasing the chances of activating the Hold the Jackpot Bonus. All Sticky symbols are locked in place while other symbols are spun."
       },
       {
          "Name":"Mystery",
@@ -659,7 +728,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"Mystery Symbol can transform into any other Bonus symbol, except for the MOON Jackpot symbol."
       },
       {
          "Name":"MoonMystery",
@@ -676,7 +746,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"Moon Mystery symbol can transform into any other Bonus symbol, including the Moon Jackpot symbol."
       },
       {
          "Name":"mini",
@@ -693,7 +764,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"MINI, MINOR, MAJOR Jackpot symbols may randomly appear in the Bonus Game and awards corresponding Jackpots. Multiple Jackpots of the same type may be won during the Bonus Game."
       },
       {
          "Name":"minor",
@@ -710,7 +782,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"MINI, MINOR, MAJOR Jackpot symbols may randomly appear in the Bonus Game and awards corresponding Jackpots. Multiple Jackpots of the same type may be won during the Bonus Game."
       },
       {
          "Name":"major",
@@ -727,7 +800,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"MINI, MINOR, MAJOR Jackpot symbols may randomly appear in the Bonus Game and awards corresponding Jackpots. Multiple Jackpots of the same type may be won during the Bonus Game."
       },
       {
          "Name":"MOON",
@@ -744,7 +818,8 @@
          },
          "multiplier":[
             
-         ]
+         ],
+         "description":"The MOON symbol can be drawn on the Moon Mystery symbol and awards the MOON Jackpot of 500x player's bet."
       }
    ]
 }
