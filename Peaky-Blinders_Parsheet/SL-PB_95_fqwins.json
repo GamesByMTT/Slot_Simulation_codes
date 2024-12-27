@@ -591,7 +591,7 @@
             "4":8
          },
          "isArthurSymbol":true,
-         "description":"Substitutes for all symbols except Jackpot, Free Spin, Bonus, and Scatter.",
+         "description":"Substitutes for all symbols except Bonus.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":false,
@@ -610,7 +610,7 @@
             "4":0
          },
          "isArthurSymbol":true,
-         "description":"",
+         "description":"2 Bonus Scatter symbols in view on reels 1 nand 3 with a Special Bonus scatter on reel 5 awards 1 of 3 Free Spins Bonus Features.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":false,
@@ -629,7 +629,7 @@
             "4":5
          },
          "isArthurSymbol":true,
-         "description":"",
+         "description":"Triggering Arthur free spins awards 3 free spins. During free spins the Jack-Ace Symbols are removed from the reels.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":false,
@@ -648,7 +648,7 @@
             "4":5
          },
          "isArthurSymbol":true,
-         "description":"",
+         "description":"Triggering Tommy free spins awards 3 free spins. During free spins 3 or more adjacent reels will change into a colossal reel consisting of 3x3 symbols.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":false,
@@ -667,7 +667,7 @@
             "4":5
          },
          "isArthurSymbol":true,
-         "description":"",
+         "description":"Triggering Polly free spins awards 3 free spins. During free spins 3 or more adjacent reels show the same symbols.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":false,
@@ -686,7 +686,7 @@
             "4":4
          },
          "isArthurSymbol":true,
-         "description":"",
+         "description":"6 or more Money Scatter symbols in view awards Thunder Spins. Each new money symbol in view resets the remaining spins to 3. Any cashpot symbols in view awards the matching cash pot fill the window to be awarded the Grandpot.",
          "useWildSub":false,
          "isBonusSymbol":false,
          "isSpecialSymbol":true,
@@ -705,7 +705,7 @@
             "4":3
          },
          "isArthurSymbol":false,
-         "description":"Substitutes for all symbols except Jackpot, Free Spin, Bonus, and Scatter.",
+         "description":"",
          "useWildSub":false,
          "isSpecialSymbol":false,
          "isBonusSymbol":true,
