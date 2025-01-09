@@ -258,7 +258,7 @@
    ],
    "bonus":{
       "isEnabled":true,
-      "awardedCount":5,
+      "awardedCount":3,
       "incrementCount":3,
       "thunderIncrementCount":3
    },
