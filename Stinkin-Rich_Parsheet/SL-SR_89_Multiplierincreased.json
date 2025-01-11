@@ -1039,11 +1039,11 @@
          "Name":"Wild",
          "Id":9,
          "reelInstance":{
-            "0":7,
+            "0":0,
             "1":7,
             "2":6,
             "3":3,
-            "4":3
+            "4":0
          },
          "description":"Substitutes for all symbols except Trash for cash, Scatter and Keys to Riches.",
          "useWildSub":false,
