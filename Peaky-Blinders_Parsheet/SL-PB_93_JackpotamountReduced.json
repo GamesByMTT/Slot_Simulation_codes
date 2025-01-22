@@ -323,9 +323,9 @@
       0.80
    ],
    "miniMultiplier":10,
-   "majorMultiplier":25,
-   "megaMultiplier":50,
-   "grandMultiplier":100,
+   "majorMultiplier":20,
+   "megaMultiplier":40,
+   "grandMultiplier":80,
    "colossalMergeProbability":60,
    "bets":[
       0.0005,
