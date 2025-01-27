@@ -116,7 +116,7 @@
    "majorMultiplier":20,
    "grandMultiplier":30,
    "moonMultiplier":50,
-   "freeSpinCount":4,
+   "freeSpinCount":3,
    "wildPayout":20,
    "gamble":{
       "type":"card",
