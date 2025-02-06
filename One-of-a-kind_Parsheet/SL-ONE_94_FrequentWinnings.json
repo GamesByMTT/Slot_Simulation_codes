@@ -185,7 +185,7 @@
          "Id":0,
          "isSpecial":false,
          "reelInstance":{
-            "0":135
+            "0":150
          },
          "freeSpinCount":0,
          "payout":0
@@ -198,7 +198,7 @@
             "0":20
          },
          "freeSpinCount":1,
-         "payout":0.8
+         "payout":1
       },
       {
          "Name":"2",
@@ -208,7 +208,7 @@
             "0":20
          },
          "freeSpinCount":1,
-         "payout":0.8
+         "payout":1
       },
       {
          "Name":"3",
