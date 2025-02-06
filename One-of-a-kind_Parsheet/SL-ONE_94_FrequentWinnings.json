@@ -109,7 +109,7 @@
       "isEnabledExhaustive":true,
       "type":"",
       "typeProbs":[
-         40,
+         60,
          15,
          5
       ],
@@ -185,7 +185,7 @@
          "Id":0,
          "isSpecial":false,
          "reelInstance":{
-            "0":75
+            "0":135
          },
          "freeSpinCount":0,
          "payout":0
@@ -225,7 +225,7 @@
          "Id":4,
          "isSpecial":false,
          "reelInstance":{
-            "0":13
+            "0":18
          },
          "freeSpinCount":1,
          "payout":1
@@ -235,7 +235,7 @@
          "Id":5,
          "isSpecial":false,
          "reelInstance":{
-            "0":13
+            "0":15
          },
          "freeSpinCount":1,
          "payout":1.25
@@ -245,7 +245,7 @@
          "Id":6,
          "isSpecial":false,
          "reelInstance":{
-            "0":10
+            "0":15
          },
          "freeSpinCount":1,
          "payout":1.25
@@ -255,7 +255,7 @@
          "Id":7,
          "isSpecial":false,
          "reelInstance":{
-            "0":10
+            "0":12
          },
          "freeSpinCount":2,
          "payout":1.5
@@ -265,7 +265,7 @@
          "Id":8,
          "isSpecial":false,
          "reelInstance":{
-            "0":5
+            "0":12
          },
          "payout":1.5,
          "freeSpinCount":2
@@ -275,7 +275,7 @@
          "Id":9,
          "isSpecial":false,
          "reelInstance":{
-            "0":5
+            "0":10
          },
          "payout":2,
          "freeSpinCount":2
@@ -285,7 +285,7 @@
          "Id":10,
          "isSpecial":false,
          "reelInstance":{
-            "0":3
+            "0":10
          },
          "freeSpinCount":2,
          "payout":3
@@ -295,7 +295,7 @@
          "Id":11,
          "isSpecial":false,
          "reelInstance":{
-            "0":3
+            "0":7
          },
          "freeSpinCount":2,
          "payout":4
@@ -305,7 +305,7 @@
          "Id":12,
          "isSpecial":false,
          "reelInstance":{
-            "0":2
+            "0":5
          },
          "freeSpinCount":0,
          "payout":5
@@ -315,7 +315,7 @@
          "Id":13,
          "isSpecial":false,
          "reelInstance":{
-            "0":1
+            "0":2
          },
          "freeSpinCount":0,
          "payout":10
