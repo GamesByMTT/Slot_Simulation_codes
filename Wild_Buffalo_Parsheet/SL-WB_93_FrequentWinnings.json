@@ -809,7 +809,7 @@
             "3":5,
             "4":5
          },
-         "description":"3 or more BonusSymbol symbols triggers the BONUS WHEEL FEATURE.\nIf 3 or more BonusSymbol symbols appear on the reel it will trigger the FREE GAME FEATURE for which  2 - 15 Freespin or 10 - 80 Multiplier can be awarded",
+         "description":"3 or more BonusSymbol symbols triggers the BONUS WHEEL FEATURE.\nIf 3 or more BonusSymbol symbols appear on the reel it will trigger the FREE GAME FEATURE for which  1 - 30 Freespin or 2 - 80 Multiplier can be awarded",
          "useWildSub":false,
          "isBonusSymbol":false,
          "multiplier":[
@@ -826,7 +826,7 @@
             "3":0,
             "4":0
          },
-         "description":"FREE GAMES are awarded from the BONUS WHEEL FEATURE.\nDuring the free games, each Wild symbol that appears on reels 2, 3, or 4 will multiply the total win for that spin by x2 or x3.\nDuring Free Games, BonusSymbol symbol is replaced by GoldenSymbol.\n1, 1, 1, 1 additional free spins are won with 2, 3, 4, or 5 GoldenSymbol respectively.\nTotal Bet is same as the game that triggered FREE GAMES FEATURE.",
+         "description":"FREE GAMES are awarded from the BONUS WHEEL FEATURE.\nDuring the free games, each Wild symbol that appears on reels 2, 3, or 4 will multiply the total win for that spin by x2 or x3.\nDuring Free Games, BonusSymbol symbol is replaced by GoldenSymbol.\n3, 5, 8, 10 additional free spins are won with 2, 3, 4, or 5 GoldenSymbol respectively.\nTotal Bet is same as the game that triggered FREE GAMES FEATURE.",
          "useWildSub":false,
          "isBonusSymbol":true,
          "multiplier":[
