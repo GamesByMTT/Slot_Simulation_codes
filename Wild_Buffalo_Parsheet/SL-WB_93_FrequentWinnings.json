@@ -383,12 +383,12 @@
          8,
          10,
          12,
-         2,
-         5,
          10,
-         15,
          20,
-         30
+         30,
+         40,
+         50,
+         75
       ],
       "featureProbs":[
          22,
@@ -413,12 +413,12 @@
          12,
          15,
          20,
-         5,
-         8,
-         15,
-         25,
+         20,
          30,
-         40
+         40,
+         50,
+         75,
+         100
       ],
       "featureProbs":[
          22,
@@ -443,12 +443,12 @@
          20,
          25,
          30,
-         10,
-         15,
-         20,
+         30,
          40,
-         60,
-         80
+         50,
+         75,
+         100,
+         200
       ],
       "featureProbs":[
          22,
@@ -606,7 +606,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -633,7 +633,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -660,7 +660,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -687,7 +687,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -714,7 +714,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -741,7 +741,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -769,7 +769,7 @@
          "isBonusSymbol":false,
          "multiplier":[
             [
-               100,
+               150,
                0
             ],
             [
@@ -809,7 +809,7 @@
             "3":5,
             "4":5
          },
-         "description":"3 or more BonusSymbol symbols triggers the BONUS WHEEL FEATURE.\nIf 3 or more BonusSymbol symbols appear on the reel it will trigger the FREE GAME FEATURE for which  1 - 30 Freespin or 2 - 80 Multiplier can be awarded",
+         "description":"3 or more BonusSymbol symbols triggers the BONUS WHEEL FEATURE.\nIf 3 or more BonusSymbol symbols appear on the reel it will trigger three different type of FREE GAME FEATURE.\n SMALL WHEEL FEATURE is triggered when 3 BonusSymbol appears anywhere on the reel, It awards 1-12 FreeSpins or 10-75 Multiplier.\n MEDIUM WHEEL FEATURE is triggered when 4 BonusSymbol appears anywhere on the reel, It awards 3-20 FreeSpins or 20-100 Multiplier.\n LARGE WHEEL FEATURE is triggered when 5 BonusSymbol appears anywhere on the reel, It awards 5-30 FreeSpins or 30-200 Multiplier",
          "useWildSub":false,
          "isBonusSymbol":false,
          "multiplier":[
