@@ -32,7 +32,7 @@
    ],
    "freeSpin":{
       "isEnabled":true,
-      "incrementCount":2
+      "incrementCount":3
    },
    "Symbols":[
       {
@@ -41,15 +41,15 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               5,
+               2,
                0
             ],
             [
@@ -57,7 +57,7 @@
                0
             ],
             [
-               0.6,
+               0.3,
                0
             ]
          ]
@@ -68,15 +68,15 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               5,
+               2,
                0
             ],
             [
@@ -84,7 +84,7 @@
                0
             ],
             [
-               0.6,
+               0.3,
                0
             ]
          ]
@@ -95,15 +95,15 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               5,
+               2,
                0
             ],
             [
@@ -111,7 +111,7 @@
                0
             ],
             [
-               0.6,
+               0.3,
                0
             ]
          ]
@@ -122,15 +122,15 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               5,
+               2,
                0
             ],
             [
@@ -138,7 +138,7 @@
                0
             ],
             [
-               0.6,
+               0.3,
                0
             ]
          ]
@@ -161,7 +161,7 @@
                0
             ],
             [
-               1.5,
+               2.5,
                0
             ],
             [
@@ -176,23 +176,23 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":5,
+            "1":5,
+            "2":5,
+            "3":5,
+            "4":5
          },
          "multiplier":[
             [
-               2,
+               5,
                0
             ],
             [
-               0.65,
+               2.5,
                0
             ],
             [
-               0.3,
+               0.6,
                0
             ]
          ]
@@ -203,23 +203,23 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":5,
+            "1":5,
+            "2":5,
+            "3":5,
+            "4":5
          },
          "multiplier":[
             [
-               2,
+               5,
                0
             ],
             [
-               0.65,
+               2.5,
                0
             ],
             [
-               0.3,
+               0.6,
                0
             ]
          ]
@@ -230,23 +230,23 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":5,
+            "1":5,
+            "2":5,
+            "3":5,
+            "4":5
          },
          "multiplier":[
             [
-               2,
+               5,
                0
             ],
             [
-               0.65,
+               2.5,
                0
             ],
             [
-               0.3,
+               0.6,
                0
             ]
          ]
@@ -257,11 +257,11 @@
          "useWildSub":false,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":2,
+            "0":0,
             "1":2,
             "2":2,
             "3":2,
-            "4":2
+            "4":0
          },
          "description":"This symbol gives doubles the payout whenever encountered in a winning combination. Also this behaves as Wild, Substitutes all symbols except FreeSpin.",
          "multiplier":[
@@ -274,13 +274,13 @@
          "useWildSub":false,
          "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":4,
+            "0":0,
             "1":4,
             "2":4,
             "3":4,
-            "4":4
+            "4":0
          },
-         "description":"Activates 2 free spins when 3, 4, or 5 FreeSpin symbols appear anywhere on the result matrix.",
+         "description":"Activates 3 free spins when FreeSpin symbols appears on reel 2, 3, or 4.",
          "multiplier":[
             
          ]
