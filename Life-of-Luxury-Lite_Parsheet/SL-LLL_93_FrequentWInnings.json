@@ -6,33 +6,212 @@
       "x":5,
       "y":3
    },
+   "linesApiData":[
+      [
+         0,
+         0,
+         0,
+         0,
+         0
+      ],
+      [
+         1,
+         1,
+         1,
+         1,
+         1
+      ],
+      [
+         2,
+         2,
+         2,
+         2,
+         2
+      ],
+      [
+         0,
+         1,
+         2,
+         1,
+         0
+      ],
+      [
+         2,
+         1,
+         0,
+         1,
+         2
+      ],
+      [
+         0,
+         0,
+         1,
+         2,
+         2
+      ],
+      [
+         2,
+         2,
+         1,
+         0,
+         0
+      ],
+      [
+         1,
+         0,
+         1,
+         2,
+         1
+      ],
+      [
+         1,
+         2,
+         1,
+         0,
+         1
+      ],
+      [
+         0,
+         1,
+         1,
+         1,
+         0
+      ],
+      [
+         1,
+         0,
+         0,
+         0,
+         1
+      ],
+      [
+         1,
+         2,
+         2,
+         2,
+         1
+      ],
+      [
+         2,
+         1,
+         1,
+         1,
+         2
+      ],
+      [
+         0,
+         1,
+         0,
+         1,
+         0
+      ],
+      [
+         2,
+         1,
+         2,
+         1,
+         2
+      ]
+   ],
    "linesCount":[
-      1
+      1,
+      5,
+      10,
+      15
    ],
    "bets":[
+      0.001,
+      0.005,
       0.01,
-      0.02,
-      0.03,
+      0.025,
       0.05,
-      0.07,
-      0.10,
-      0.25,
-      0.50,
-      0.75,
-      1.00,
-      1.50,
-      2.00,
-      2.50,
-      5.00,
-      10.00,
-      15.00,
-      20.00,
-      30.00,
-      40.00
+      0.075,
+      0.1,
+      0.125,
+      0.2,
+      0.3,
+      0.5,
+      1,
+      1.5,
+      2,
+      3,
+      4
    ],
    "freeSpin":{
       "isEnabled":true,
-      "incrementCount":2
+      "incrementCount":3,
+      "diamondMultiplier":[
+         {
+            "range":[
+               1,
+               5
+            ],
+            "multiplier":2
+         },
+         {
+            "range":[
+               6,
+               10
+            ],
+            "multiplier":3
+         },
+         {
+            "range":[
+               11,
+               15
+            ],
+            "multiplier":4
+         },
+         {
+            "range":[
+               16,
+               20
+            ],
+            "multiplier":5
+         },
+         {
+            "range":[
+               21,
+               25
+            ],
+            "multiplier":6
+         },
+         {
+            "range":[
+               26,
+               30
+            ],
+            "multiplier":7
+         },
+         {
+            "range":[
+               31,
+               35
+            ],
+            "multiplier":8
+         },
+         {
+            "range":[
+               36,
+               40
+            ],
+            "multiplier":9
+         },
+         {
+            "range":[
+               41,
+               45
+            ],
+            "multiplier":10
+         },
+         {
+            "range":[
+               46,
+               100
+            ],
+            "multiplier":10
+         }
+      ]
    },
    "Symbols":[
       {
@@ -49,15 +228,15 @@
          },
          "multiplier":[
             [
-               5,
+               100,
                0
             ],
             [
-               1.5,
+               50,
                0
             ],
             [
-               0.6,
+               25,
                0
             ]
          ]
@@ -66,7 +245,7 @@
          "Name":"1",
          "Id":1,
          "useWildSub":true,
-         "isFreeSpinMultiplier":true,
+         "isFreeSpinMultiplier":false,
          "reelInstance":{
             "0":5,
             "1":5,
@@ -76,15 +255,15 @@
          },
          "multiplier":[
             [
-               5,
+               100,
                0
             ],
             [
-               1.5,
+               50,
                0
             ],
             [
-               0.6,
+               25,
                0
             ]
          ]
@@ -93,7 +272,7 @@
          "Name":"2",
          "Id":2,
          "useWildSub":true,
-         "isFreeSpinMultiplier":true,
+         "isFreeSpinMultiplier":false,
          "reelInstance":{
             "0":5,
             "1":5,
@@ -103,15 +282,15 @@
          },
          "multiplier":[
             [
-               5,
+               100,
                0
             ],
             [
-               1.5,
+               50,
                0
             ],
             [
-               0.6,
+               25,
                0
             ]
          ]
@@ -120,7 +299,7 @@
          "Name":"3",
          "Id":3,
          "useWildSub":true,
-         "isFreeSpinMultiplier":true,
+         "isFreeSpinMultiplier":false,
          "reelInstance":{
             "0":5,
             "1":5,
@@ -130,15 +309,15 @@
          },
          "multiplier":[
             [
-               5,
+               100,
                0
             ],
             [
-               1.5,
+               50,
                0
             ],
             [
-               0.6,
+               25,
                0
             ]
          ]
@@ -149,23 +328,23 @@
          "useWildSub":true,
          "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5,
-            "3":5,
-            "4":5
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               5,
+               60,
                0
             ],
             [
-               1.5,
+               30,
                0
             ],
             [
-               0.6,
+               10,
                0
             ]
          ]
@@ -174,25 +353,25 @@
          "Name":"5",
          "Id":5,
          "useWildSub":true,
-         "isFreeSpinMultiplier":false,
+         "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               2,
+               60,
                0
             ],
             [
-               0.65,
+               30,
                0
             ],
             [
-               0.3,
+               10,
                0
             ]
          ]
@@ -201,25 +380,25 @@
          "Name":"6",
          "Id":6,
          "useWildSub":true,
-         "isFreeSpinMultiplier":false,
+         "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
          "multiplier":[
             [
-               2,
+               60,
                0
             ],
             [
-               0.65,
+               30,
                0
             ],
             [
-               0.3,
+               10,
                0
             ]
          ]
@@ -228,25 +407,26 @@
          "Name":"7",
          "Id":7,
          "useWildSub":true,
-         "isFreeSpinMultiplier":false,
+         "isFreeSpinMultiplier":true,
          "reelInstance":{
-            "0":10,
-            "1":10,
-            "2":10,
-            "3":10,
-            "4":10
+            "0":12,
+            "1":12,
+            "2":12,
+            "3":12,
+            "4":12
          },
+         "description":"Number of diamond collected \t Multiplier \n 1 - 5 \t 2 \n 6 - 10 \t 3 \n 11 - 15 \t 4 \n 16 - 20 \t 5 \n 21 - 25 \t 6 \n 26 - 30 \t 7 \n 31 - 35 \t 8 \n 36 - 40 \t 9 \n 41 - 45 or more \t 10 \n",
          "multiplier":[
             [
-               2,
+               60,
                0
             ],
             [
-               0.65,
+               30,
                0
             ],
             [
-               0.3,
+               10,
                0
             ]
          ]
@@ -255,15 +435,14 @@
          "Name":"Scatter",
          "Id":8,
          "useWildSub":false,
-         "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":2,
-            "1":2,
-            "2":2,
-            "3":2,
-            "4":2
+            "0":0,
+            "1":4,
+            "2":4,
+            "3":4,
+            "4":0
          },
-         "description":"This symbol gives doubles the payout whenever encountered in a winning combination. Also this behaves as Wild, Substitutes all symbols except FreeSpin.",
+         "description":"Doubles the payout when a line combination is made with this symbol. This symbol also behaves as a Wild.",
          "multiplier":[
             
          ]
@@ -272,15 +451,14 @@
          "Name":"FreeSpin",
          "Id":9,
          "useWildSub":false,
-         "isFreeSpinMultiplier":false,
          "reelInstance":{
-            "0":4,
-            "1":4,
-            "2":4,
-            "3":4,
-            "4":4
+            "0":0,
+            "1":8,
+            "2":8,
+            "3":8,
+            "4":0
          },
-         "description":"Activates 2 free spins when 3, 4, or 5 FreeSpin symbols appear anywhere on the result matrix.",
+         "description":"Triggers 3 FreeSpins when 3 or more symbols appears anywhere on the reels 2, 3 and 4.",
          "multiplier":[
             
          ]
