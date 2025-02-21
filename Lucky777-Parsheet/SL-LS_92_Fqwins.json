@@ -75,7 +75,7 @@
             "0",
             "0"
          ],
-         "payout":12
+         "payout":16
       },
       {
          "combination":[
@@ -83,39 +83,39 @@
             "1",
             "1"
          ],
-         "payout":10
+         "payout":14
       },
       {
          "combination":[
             "2",
             "2",
             "2"
+         ],
+         "payout":12
+      },
+      {
+         "combination":[
+            "3",
+            "3",
+            "3"
+         ],
+         "payout":8
+      },
+      {
+         "combination":[
+            "4",
+            "4",
+            "4"
          ],
          "payout":6
       },
       {
          "combination":[
-            "3",
-            "3",
-            "3"
-         ],
-         "payout":3
-      },
-      {
-         "combination":[
-            "4",
-            "4",
-            "4"
-         ],
-         "payout":3
-      },
-      {
-         "combination":[
             "5",
             "5",
             "5"
          ],
-         "payout":3
+         "payout":4
       },
       {
          "combination":[
@@ -170,42 +170,42 @@
             "0",
             "3"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
             "3",
             "0"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
             "1",
             "4"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
             "4",
             "1"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
             "2",
             "5"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
             "5",
             "2"
          ],
-         "payout":2
+         "payout":3
       },
       {
          "combination":[
@@ -213,7 +213,7 @@
             "4",
             "5"
          ],
-         "payout":1
+         "payout":1.5
       },
       {
          "combination":[
@@ -221,7 +221,7 @@
             "5",
             "4"
          ],
-         "payout":1
+         "payout":1.5
       },
       {
          "combination":[
@@ -229,7 +229,7 @@
             "3",
             "5"
          ],
-         "payout":1
+         "payout":1.5
       },
       {
          "combination":[
@@ -237,7 +237,7 @@
             "5",
             "3"
          ],
-         "payout":1
+         "payout":1.5
       },
       {
          "combination":[
@@ -245,7 +245,7 @@
             "3",
             "4"
          ],
-         "payout":1
+         "payout":1.5
       },
       {
          "combination":[
@@ -253,7 +253,7 @@
             "4",
             "3"
          ],
-         "payout":1
+         "payout":1.5
       }
    ],
    "bets":[
@@ -284,9 +284,9 @@
             "3"
          ],
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":8,
+            "1":8,
+            "2":8
          }
       },
       {
@@ -300,9 +300,9 @@
          ],
          "description":"",
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":8,
+            "1":8,
+            "2":8
          }
       },
       {
@@ -315,9 +315,9 @@
             "5"
          ],
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":8,
+            "1":8,
+            "2":8
          }
       },
       {
@@ -331,9 +331,9 @@
          ],
          "description":"",
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":10,
+            "1":10,
+            "2":10
          }
       },
       {
@@ -347,9 +347,9 @@
          ],
          "description":"",
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":10,
+            "1":10,
+            "2":10
          }
       },
       {
@@ -363,9 +363,9 @@
          ],
          "description":"",
          "reelInstance":{
-            "0":5,
-            "1":5,
-            "2":5
+            "0":10,
+            "1":10,
+            "2":10
          }
       },
       {
@@ -374,11 +374,23 @@
          "canmatch":[
             
          ],
-         "description":"All payout this round are multiplied by the corresponding multiplier",
+         "description":"Substitutes for all symbols, For more winnings.",
          "reelInstance":{
-            "0":4,
-            "1":4,
-            "2":4
+            "0":8,
+            "1":8,
+            "2":8
+         }
+      },
+      {
+         "Name":"blank",
+         "Id":7,
+         "canmatch":[
+            
+         ],
+         "reelInstance":{
+            "0":13,
+            "1":13,
+            "2":13
          }
       }
    ]
