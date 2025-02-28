@@ -54,7 +54,7 @@
    "linesCount":[
       9
    ],
-   "jackpotPayout":100,
+   "jackpotMultiplier":100,
    "jackpotCombination":[
       "0",
       "1",
